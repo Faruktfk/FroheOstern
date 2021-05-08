@@ -1,1 +1,1 @@
-# FroheOstern
+# FroheOstern eine kleine Animation in Java
